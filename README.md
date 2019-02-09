@@ -1,4 +1,4 @@
-# kag_dodgeball
+# KAG Dodgeball
 Original (for non classic version) dodgeball for KAG
 
 # What is it?
